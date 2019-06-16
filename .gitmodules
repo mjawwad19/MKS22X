@@ -1,0 +1,39 @@
+[submodule "16-MKS22X-Queens"]
+	path = 16-MKS22X-Queens
+	url = https://github.com/mjawwad19/16-MKS22X-Queens.git
+[submodule "15-MKS22X-Recursion"]
+	path = 15-MKS22X-Recursion
+	url = https://github.com/mjawwad19/15-MKS22X-Recursion.git
+[submodule "18-MKS22X-USACO"]
+	path = 18-MKS22X-USACO
+	url = https://github.com/mjawwad19/18-MKS22X-USACO.git
+[submodule "17-MKS22X-Knight"]
+	path = 17-MKS22X-Knight
+	url = https://github.com/mjawwad19/17-MKS22X-Knight.git
+[submodule "19-MKS22X-CW"]
+	path = 19-MKS22X-CW
+	url = https://github.com/mjawwad19/19-MKS22X-CW.git
+[submodule "20-MKS22X-Maze"]
+	path = 20-MKS22X-Maze
+	url = https://github.com/mjawwad19/20-MKS22X-Maze.git
+[submodule "21-MKS22X-merge"]
+	path = 21-MKS22X-merge
+	url = https://github.com/mjawwad19/21-MKS22X-merge.git
+[submodule "22-MKS22X-Quick"]
+	path = 22-MKS22X-Quick
+	url = https://github.com/mjawwad19/22-MKS22X-Quick.git
+[submodule "23-MKS22X-MyDeque"]
+	path = 23-MKS22X-MyDeque
+	url = https://github.com/mjawwad19/23-MKS22X-MyDeque.git
+[submodule "24-MKS22X-Radix"]
+	path = 24-MKS22X-Radix
+	url = https://github.com/mjawwad19/24-MKS22X-Radix.git
+[submodule "25-MKS22X-ExpressionTree"]
+	path = 25-MKS22X-ExpressionTree
+	url = https://github.com/mjawwad19/25-MKS22X-ExpressionTree.git
+[submodule "26-MKS22X-Heap"]
+	path = 26-MKS22X-Heap
+	url = https://github.com/mjawwad19/26-MKS22X-Heap.git
+[submodule "27-MKS22X-ProcessingBasics"]
+	path = 27-MKS22X-ProcessingBasics
+	url = https://github.com/mjawwad19/27-MKS22X-ProcessingBasics.git
