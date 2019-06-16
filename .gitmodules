@@ -40,3 +40,6 @@
 [submodule "MKS22X-FinalProject"]
 	path = MKS22X-FinalProject
 	url = https://github.com/mjawwad19/MKS22X-FinalProject.git
+[submodule "MKS22X-GroupLab"]
+	path = MKS22X-GroupLab
+	url = https://github.com/TylerH123/MKS22X-GroupLab.git
