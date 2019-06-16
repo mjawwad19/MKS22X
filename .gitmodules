@@ -37,3 +37,6 @@
 [submodule "27-MKS22X-ProcessingBasics"]
 	path = 27-MKS22X-ProcessingBasics
 	url = https://github.com/mjawwad19/27-MKS22X-ProcessingBasics.git
+[submodule "MKS22X-FinalProject"]
+	path = MKS22X-FinalProject
+	url = https://github.com/mjawwad19/MKS22X-FinalProject.git
